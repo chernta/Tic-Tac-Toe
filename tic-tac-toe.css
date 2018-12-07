@@ -1,0 +1,17 @@
+div{
+  width: 30%;
+  height: 30%;
+  border: 3px solid green;
+  box-sizing: border-box;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 130px;
+  float: left;
+  font-size: 80px;
+  color: red;
+}
+
+body{
+  width: 500px;
+  height: 500px;
+}
